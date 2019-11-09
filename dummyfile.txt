@@ -1,0 +1,2 @@
+I am learning git stash to save uncommited changes in woriking directory.
+yes that's worked hopefully:)
